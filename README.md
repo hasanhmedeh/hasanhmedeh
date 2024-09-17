@@ -42,8 +42,7 @@
 
 <br clear="both" />
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=hasanhmedeh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" width="51%" alt="streak graph"  />
+<div align="left"><img src="https://streak-stats.demolab.com?user=hasanhmedeh&theme=dark&hide_border=true&border_radius=5" width="51%" alt="GitHub Streak" />
   <img width="1%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanhmedeh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="46%"  alt="languages graph"  />
 </div>
