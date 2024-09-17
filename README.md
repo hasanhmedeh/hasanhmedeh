@@ -33,7 +33,11 @@
   <img width="3%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="7.5%" alt="python logo"  />
   <img width="3%" />
-  <img src="https://www.logo.wine/a/logo/FFmpeg/FFmpeg-Logo.wine.svg" width="7.5%" alt="ffmpeg logo"  />
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/ffmpeg_macos_bigsur_icon_190192.png" width="7.5%" alt="ffmpeg logo"  />
+  <img width="3%" />
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_premiere_pro_macos_bigsur_icon_189485.png" width="7.5%" alt="adobe premiere logo"  />
+  <img width="3%" />
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_after_effects_macos_bigsur_icon_190464.png" width="7.5%" alt="adobe after effects logo"  />
 </div>
 
 ###
