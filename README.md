@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.instagram.com/hasanhmedeh" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmeta.m.wikimedia.org%2Fwiki%2FFile%3AInstagram_logo_2022.svg&psig=AOvVaw0Q8a5lh6QjCdqb_z9-dyxp&ust=1726662124988000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiUtun7yYgDFQAAAAAdAAAAABAE" width="7.5%" alt="instagram logo"  /></a>
+  <a href="https://www.instagram.com/hasanhmedeh" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/600px-Instagram_logo_2022.svg.png" width="7.5%" alt="instagram logo"/></a>
 </p>
 
 ###
