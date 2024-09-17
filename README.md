@@ -19,9 +19,9 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="7.5%" alt="typescript logo"  />
-  <img width="2%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="7.5%" alt="react logo"  />
+  <img width="2%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="7.5%" alt="typescript logo"  />
   <img width="2%" />
   <img src="https://skillicons.dev/icons?i=aws" width="7.5%" alt="amazonwebservices logo"  />
   <img width="2%" />
@@ -36,8 +36,6 @@
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/ffmpeg_macos_bigsur_icon_190192.png" width="7.5%" alt="ffmpeg logo"  />
   <img width="2%" />
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_premiere_pro_macos_bigsur_icon_189485.png" width="7.5%" alt="adobe premiere logo"  />
-  <img width="2%" />
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_after_effects_macos_bigsur_icon_190464.png" width="7.5%" alt="adobe after effects logo"  />
 </div>
 
 ###
